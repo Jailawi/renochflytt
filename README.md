@@ -1,5 +1,5 @@
 # Ren & flytt
-Booking System that is planned to be added to a moving firm WordPress website
+Booking System that will replace the current plug-in booking system in [Ren & Flytt](https://renochflytt.se).
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
